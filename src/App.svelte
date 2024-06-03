@@ -67,7 +67,7 @@
 </script>
 
 <main class="container">
-  <h1 class="title">CRED Operations</h1>
+  <h1 class="title">the CRED Operations</h1>
   
   <section class="section">
     <h2 class="subtitle">Create</h2>
